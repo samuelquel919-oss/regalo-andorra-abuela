@@ -294,3 +294,25 @@ font-size:30px;
 }
 
 }
+@keyframes caer{
+
+from{
+
+transform:translateY(-50px)
+rotate(0deg);
+
+opacity:1;
+
+}
+
+
+to{
+
+transform:translateY(100vh)
+rotate(360deg);
+
+opacity:0;
+
+}
+
+}
